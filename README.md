@@ -17,6 +17,6 @@
    * Line Chart specifies count of patients admitted vs total billing amount by (year and months).
    * Pie chart specifies count of patients vs insurance provider.
 ## Dashboard Snapshot:
-   
+   https://github.com/gayathri3091/Healthcare/blob/main/Hospital's%20Admissions%20%26%20Revenue%20%20Report.PNG
     
     
